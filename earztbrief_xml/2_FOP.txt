@@ -1,0 +1,1 @@
+java -jar fop/fop.jar -c fop.xconf -xml test/eArztbrief.xml -xsl test/eArztbrief.xsl -pdfa1b eArztbrief.pdf

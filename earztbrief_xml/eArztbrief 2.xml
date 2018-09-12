@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<?xml-stylesheet type="text/xsl" href="eArtzbrief.xsl" ?>
+<ClinicalDocument xmlns="urn:hl7-org:v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="urn:hl7-org:v3 CDA.xsd">
+<typeId root="2.16.840.1.113883.1.3" extension="POCD_HD000040"/><id root="1.2.276.0.76.3.1.75.1" extension="1920210221015120927"/><code code="11488-4" codeSystem="2.16.840.1.113883.6.1" displayName="eArztbrief"/><title/><effectiveTime value="20151022"/><confidentialityCode code="N" codeSystem="2.16.840.1.113883.5.25"/><recordTarget><patientRole><id root="1.2.276.0.76.3.1.75" extension="1"/><addr use="HP"><streetName>Wilhelmstr.</streetName><houseNumber>96</houseNumber><postalCode>42489</postalCode><city>Wülfrath</city><country/></addr><telecom use="HP" value="tel:02058921120"/><patient><name><given>Max</given><family>Mustermann</family></name><administrativeGenderCode code="M" codeSystem="2.16.840.1.113883.5.1"/><birthTime value="19820101"/></patient><providerOrganization><telecom use="WP" value="tel:02058-921120"/><telecom use="WP" value="dummy,Passt die Handynummer des Arztes zur Kategorie ProviderOrganization?"/><telecom use="WP" value="fax:02058-2091"/><addr><streetName>Wilhelmstr.</streetName><houseNumber>96</houseNumber><postalCode>42489</postalCode><city>Wülfrath</city><country>Deutschland</country></addr></providerOrganization></patientRole></recordTarget><author><time value="20151022"/><assignedAuthor><id root="1.2.276.0.76.3.1.75" extension="123456789"/><assignedPerson><name><prefix qualifier="AC">Dr.med.med</prefix><given>Didi</given><family>Musterarzt</family></name></assignedPerson><representedOrganization><id root="1.2.276.0.76.4.5" extension="1920210"/><name>MEDYS</name><telecom use="WP" value="tel:02058-921120"/><telecom use="WP" value="Die Handynummer des Arztes passt nicht in diese Kategorie?"/><telecom use="WP" value="fax:02058-2091"/><addr><streetName>Wilhelmstr.</streetName><houseNumber>96</houseNumber><postalCode>42489</postalCode><city>Wülfrath</city><country>Deutschland</country></addr></representedOrganization></assignedAuthor></author><custodian><assignedCustodian><representedCustodianOrganization><id root="1.2.276.0.76.4.5" extension="1920210"/><name>MEDYS</name><telecom use="WP" value="tel:02058-921120"/><addr><streetName>Wilhelmstr.</streetName><houseNumber>96</houseNumber><postalCode>42489</postalCode><city>Wülfrath</city><country>Deutschland</country></addr></representedCustodianOrganization></assignedCustodian></custodian><legalAuthenticator><time value="20151022"/><signatureCode code="S"/><assignedEntity><id root="1.2.276.0.76.3.1.75" extension="123456789"/><assignedPerson><name><prefix qualifier="AC">Dr.med.med</prefix><given>Didi</given><family>Musterarzt</family></name></assignedPerson><representedOrganization><name>Dr.med.med Musterarzt</name><telecom use="WP" value="tel:02058-921120"/><addr><streetName>Wilhelmstr.</streetName><houseNumber>96</houseNumber><postalCode>42489</postalCode><city>Wülfrath</city><country>Deutschland</country></addr></representedOrganization></assignedEntity></legalAuthenticator>
+
+	<component>
+		<structuredBody>
+			<component>
+				<section>
+					<code code="29308-4" codeSystem="2.16.840.1.113883.6.1"/>
+					<title>09.03.15: Diagnosen mit ICD 10</title>
+					<text>
+						<table border="1">
+							<thead>
+								<tr>
+									<th>ICD Code</th>
+									<th>Diagnose</th>
+									<th>Lokalisation</th>
+									<th>Zusatz</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>R05</td>
+									<td>
+										<content ID="diag-1">Husten</content>
+									</td>
+									<td/>
+									<td>G</td>
+								</tr>
+							</tbody>
+						</table>
+					</text>
+					
+					<entry>
+						<observation moodCode="EVN" classCode="OBS">
+							<code code="DX" codeSystem="1.2.276.0.76.5.342"/>
+							<statusCode code="completed"/>
+							<effectiveTime>
+								<low value="20150309"/>
+							</effectiveTime>
+							<value code="R05" xsi:type="CD" codeSystem="1.2.276.0.76.5.424">
+								<originalText>
+									<reference value="#diag-1"/>
+								</originalText>
+								<qualifier>
+									<name code="8" codeSystem="2.16.840.1.113883.3.7.1."/>
+									<value code="G" codeSystem="2.16.840.1.113883.3.7.1.8"/>
+								</qualifier>
+							</value>
+						</observation>
+					</entry>
+					
+				</section>
+			</component>
+		</structuredBody>
+	</component>
+</ClinicalDocument>

@@ -1,0 +1,120 @@
+Fehler beim Validieren -->  Zeile: 2  -  Spalte: 143
+Fehlertext: cvc-elt.1: Cannot find the declaration of element 'ClinicalDocument'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 1733
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 2734
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 3202
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 4181
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 5249
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 5717
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 6641
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 7109
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 8521
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 8839
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 9204
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 9677
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 10283
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 10726
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 11042
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 11382
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 12319
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 20  -  Spalte: 12921
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 412
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 881
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 1350
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 1819
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 2288
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 3307
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 3776
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 4625
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 5607
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 6739
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 7212
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 8241
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 8710
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 9198
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 10333
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 10958
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 11560
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 12162
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 13182
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 14252
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
+Fehler beim Validieren -->  Zeile: 22  -  Spalte: 14873
+Fehlertext: cvc-elt.4.2: Cannot resolve 'CD' to a type definition for element 'value'.
+
